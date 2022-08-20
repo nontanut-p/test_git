@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/pat/ros2_ws/install/turtlesim/include/**",
+        "/home/pat/dev_ws/install/turtlesim/include/**",
+        "/home/pat/Mazebot_ws/path_planning_ws/install/turtlebot3_gazebo/include/**",
+        "/home/pat/Mazebot_ws/path_planning_ws/install/turtlebot3_fake_node/include/**",
+        "/opt/ros/foxy/include/**",
+        "/home/pat/ros2_ws/src/ros_tutorials/turtlesim/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

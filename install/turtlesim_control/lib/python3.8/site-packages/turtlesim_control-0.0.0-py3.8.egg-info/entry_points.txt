@@ -1,0 +1,5 @@
+[console_scripts]
+test_subscribe = turtlesim_control.test_subscribe:main
+turtlesim_command = turtlesim_control.turtlesim_command:main
+turtlesim_control = turtlesim_control.turtlesim_control:main
+

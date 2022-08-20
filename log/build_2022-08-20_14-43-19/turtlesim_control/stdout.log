@@ -1,0 +1,27 @@
+running egg_info
+writing ../../build/turtlesim_control/turtlesim_control.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtlesim_control/turtlesim_control.egg-info/dependency_links.txt
+writing entry points to ../../build/turtlesim_control/turtlesim_control.egg-info/entry_points.txt
+writing requirements to ../../build/turtlesim_control/turtlesim_control.egg-info/requires.txt
+writing top-level names to ../../build/turtlesim_control/turtlesim_control.egg-info/top_level.txt
+reading manifest file '../../build/turtlesim_control/turtlesim_control.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtlesim_control/turtlesim_control.egg-info/SOURCES.txt'
+running build
+running build_py
+copying turtlesim_control/test_subscribe.py -> /home/pat/ros2_ws/build/turtlesim_control/build/lib/turtlesim_control
+copying turtlesim_control/turtlesim_command.py -> /home/pat/ros2_ws/build/turtlesim_control/build/lib/turtlesim_control
+running install
+running install_lib
+copying /home/pat/ros2_ws/build/turtlesim_control/build/lib/turtlesim_control/test_subscribe.py -> /home/pat/ros2_ws/install/turtlesim_control/lib/python3.8/site-packages/turtlesim_control
+copying /home/pat/ros2_ws/build/turtlesim_control/build/lib/turtlesim_control/turtlesim_command.py -> /home/pat/ros2_ws/install/turtlesim_control/lib/python3.8/site-packages/turtlesim_control
+byte-compiling /home/pat/ros2_ws/install/turtlesim_control/lib/python3.8/site-packages/turtlesim_control/test_subscribe.py to test_subscribe.cpython-38.pyc
+byte-compiling /home/pat/ros2_ws/install/turtlesim_control/lib/python3.8/site-packages/turtlesim_control/turtlesim_command.py to turtlesim_command.cpython-38.pyc
+running install_data
+running install_egg_info
+removing '/home/pat/ros2_ws/install/turtlesim_control/lib/python3.8/site-packages/turtlesim_control-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../../build/turtlesim_control/turtlesim_control.egg-info to /home/pat/ros2_ws/install/turtlesim_control/lib/python3.8/site-packages/turtlesim_control-0.0.0-py3.8.egg-info
+running install_scripts
+Installing test_subscribe script to /home/pat/ros2_ws/install/turtlesim_control/lib/turtlesim_control
+Installing turtlesim_command script to /home/pat/ros2_ws/install/turtlesim_control/lib/turtlesim_control
+Installing turtlesim_control script to /home/pat/ros2_ws/install/turtlesim_control/lib/turtlesim_control
+writing list of installed files to '/home/pat/ros2_ws/build/turtlesim_control/install.log'

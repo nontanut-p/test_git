@@ -1,0 +1,22 @@
+[0.440s] Invoking command in '/home/pat/ros2_ws/src/turtlesim_control': PYTHONPATH=/home/pat/ros2_ws/install/turtlesim_control/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim_control build --build-base /home/pat/ros2_ws/build/turtlesim_control/build install --prefix /home/pat/ros2_ws/install/turtlesim_control --record /home/pat/ros2_ws/build/turtlesim_control/install.log --single-version-externally-managed
+[0.795s] running egg_info
+[0.796s] writing ../../build/turtlesim_control/turtlesim_control.egg-info/PKG-INFO
+[0.796s] writing dependency_links to ../../build/turtlesim_control/turtlesim_control.egg-info/dependency_links.txt
+[0.796s] writing entry points to ../../build/turtlesim_control/turtlesim_control.egg-info/entry_points.txt
+[0.796s] writing requirements to ../../build/turtlesim_control/turtlesim_control.egg-info/requires.txt
+[0.797s] writing top-level names to ../../build/turtlesim_control/turtlesim_control.egg-info/top_level.txt
+[0.830s] reading manifest file '../../build/turtlesim_control/turtlesim_control.egg-info/SOURCES.txt'
+[0.831s] writing manifest file '../../build/turtlesim_control/turtlesim_control.egg-info/SOURCES.txt'
+[0.831s] running build
+[0.831s] running build_py
+[0.831s] running install
+[0.832s] running install_lib
+[0.834s] running install_data
+[0.835s] running install_egg_info
+[0.836s] removing '/home/pat/ros2_ws/install/turtlesim_control/lib/python3.8/site-packages/turtlesim_control-0.0.0-py3.8.egg-info' (and everything under it)
+[0.837s] Copying ../../build/turtlesim_control/turtlesim_control.egg-info to /home/pat/ros2_ws/install/turtlesim_control/lib/python3.8/site-packages/turtlesim_control-0.0.0-py3.8.egg-info
+[0.837s] running install_scripts
+[0.867s] Installing turtlesim_comand script to /home/pat/ros2_ws/install/turtlesim_control/lib/turtlesim_control
+[0.867s] Installing turtlesim_control script to /home/pat/ros2_ws/install/turtlesim_control/lib/turtlesim_control
+[0.867s] writing list of installed files to '/home/pat/ros2_ws/build/turtlesim_control/install.log'
+[0.906s] Invoked command in '/home/pat/ros2_ws/src/turtlesim_control' returned '0': PYTHONPATH=/home/pat/ros2_ws/install/turtlesim_control/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim_control build --build-base /home/pat/ros2_ws/build/turtlesim_control/build install --prefix /home/pat/ros2_ws/install/turtlesim_control --record /home/pat/ros2_ws/build/turtlesim_control/install.log --single-version-externally-managed
