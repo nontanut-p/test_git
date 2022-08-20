@@ -1,4 +1,5 @@
 pat test
 bug 1
 good function
+bug in good 
 
