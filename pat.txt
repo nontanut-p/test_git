@@ -1,1 +1,3 @@
 pat test
+bug 1
+
